@@ -34,6 +34,7 @@ Script para conceder permisos de **Cámara** o **Micrófono** a aplicaciones en 
 Descarga `tcc-permisos.command` y guárdalo en `~/Downloads/`.
 
 https://github.com/jslegendre/tccplus
+
 Creditos a jslegendre por su herramienta
 
 ### Paso 2 — Dar permisos de ejecución
